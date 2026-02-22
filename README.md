@@ -2,7 +2,6 @@
 
 🎓 Master of Computer Applications (MCA) Student  
 💻 MERN Stack Developer  
-🚀 Backend Developer  
 🌱 Passionate about building scalable web applications  
 
 ---
