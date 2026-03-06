@@ -46,18 +46,7 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:007CF0&height=220&section=header&text=Rojalin%20Mohanty&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</p>
---- 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Node.js+Backend+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
-</p>
----
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:007CF0&height=120&section=footer"/>
-</p>
----
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Rojalin%20Mohanty&fontSize=50&color=0:00C7B7,100:007CF0&stroke=ffffff"/>
 </p>
