@@ -3,7 +3,21 @@
 🎓 Master of Computer Applications (MCA) Student  
 💻 MERN Stack Developer  
 🌱 Passionate about building scalable web applications  
+<p align="center">
 
+<a href="https://github.com/rosymohanty/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rosymohanty&repo=project1&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/rosymohanty/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rosymohanty&repo=project2&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/rosymohanty/project3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rosymohanty&repo=project3&theme=tokyonight"/>
+</a>
+
+</p>
 ---
 # 🚀 About Me
 
