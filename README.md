@@ -20,49 +20,16 @@
 🎯 Interested in Node.js Backend Development
 
 ---
-## 🛠 Tech Stack
-
-**Frontend:**  
-React.js | HTML | CSS | JavaScript  
-
-**Backend:**  
-Node.js | Express.js | REST APIs | JWT Authentication  
-
-**Database:**  
-MongoDB  
-
-**Tools & Version Control:**  
-Git | GitHub | Postman  
-
----
-
-## 💡 About Me
-
-- Strong understanding of full-stack development using MERN  
-- Experience building authentication systems with JWT  
-- Implemented email integration using Nodemailer  
-- Interested in backend architecture and API development  
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/rojalin-mohanty-68a131319  
-📧 Email: mohantyrojalin700@gmail.com  
-
----
-
-## 🏷 Tech Stack Badges
-
-## 🚀 Tech Stack & Developer Badges
+## ## 🚀 Tech Stack & Developer Badges
 
 <p align="center">
 
-<!-- MERN Stack -->
+<!-- Developer Role -->
 
 <img src="https://img.shields.io/badge/MERN-Stack-00C7B7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Developer-blue?style=for-the-badge"/>
 
 <br><br>
 
@@ -115,7 +82,28 @@ Git | GitHub | Postman
 
 <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API-Developer-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Learning-New%20Technologies-orange?style=for-the-badge"/>
 
 </p>
+
+
+---
+
+## 💡 About Me
+
+- Strong understanding of full-stack development using MERN  
+- Experience building authentication systems with JWT  
+- Implemented email integration using Nodemailer  
+- Interested in backend architecture and API development  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/rojalin-mohanty-68a131319  
+📧 Email: mohantyrojalin700@gmail.com  
+
+---
+
+## 🏷 Tech Stack Badges
+
