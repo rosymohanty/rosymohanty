@@ -1,4 +1,7 @@
 # Hi 👋, I'm Rojalin Mohanty
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,postman,vercel,netlify&perline=6" />
+</p>
 
 🎓 Master of Computer Applications (MCA) Student  
 💻 MERN Stack Developer  
