@@ -37,18 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rosymohanty&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosymohanty&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -57,4 +45,7 @@
 
 </p>
 
-
+---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:007CF0&height=220&section=header&text=Rojalin%20Mohanty&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
