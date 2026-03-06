@@ -64,3 +64,8 @@ Git | GitHub | Postman
 ![Code](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![API](https://img.shields.io/badge/API-Developer-blue)
 ![Learning](https://img.shields.io/badge/Learning-New%20Technologies-orange)
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
