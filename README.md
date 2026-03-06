@@ -44,12 +44,6 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Node.js+Backend+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
-</p>
-
----
 ## 💬 Random Dev Quote
 
 <p align="center">
@@ -57,3 +51,9 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </p>
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Node.js+Backend+Developer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
+</p>
+
