@@ -54,18 +54,68 @@ Git | GitHub | Postman
 
 ## 🏷 Tech Stack Badges
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Lover-green)
-![Code](https://img.shields.io/badge/Code-JavaScript-yellow)
-![API](https://img.shields.io/badge/API-Developer-blue)
-![Learning](https://img.shields.io/badge/Learning-New%20Technologies-orange)
+## 🚀 Tech Stack & Developer Badges
+
 <p align="center">
+
+<!-- MERN Stack -->
+
+<img src="https://img.shields.io/badge/MERN-Stack-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+
+<br><br>
+
+<!-- Frontend -->
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br><br>
+
+<!-- Backend -->
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
+<br><br>
+
+<!-- Database -->
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br><br>
+
+<!-- Authentication -->
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br><br>
+
+<!-- Tools -->
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br><br>
+
+<!-- Deployment -->
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+<br><br>
+
+<!-- Developer Identity -->
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-New%20Technologies-orange?style=for-the-badge"/>
+
 </p>
