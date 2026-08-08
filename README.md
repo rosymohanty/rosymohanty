@@ -62,9 +62,6 @@ I'm a final-year **MCA student** who builds production-style full-stack applicat
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 <p align="center">
   <i>💡 "Code is like humor. When you have to explain it, it's bad."</i>
