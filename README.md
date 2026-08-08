@@ -56,17 +56,8 @@ I'm a final-year **MCA student** who builds production-style full-stack applicat
   <img src="https://streak-stats.demolab.com?user=rosymohanty&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rosymohanty&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
 
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad."</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rojalin-mohanty-68a131319">Let's connect</a> — always open to interesting conversations, collabs, or a good backend puzzle.
-</p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p> <p align="center"> <i>💡 "Code is like humor. When you have to explain it, it's bad."</i> </p> <p align="center"> <a href="https://www.linkedin.com/in/rojalin-mohanty-68a131319">Let's connect</a> — always open to interesting conversations, collabs, or a good backend puzzle. </p>
