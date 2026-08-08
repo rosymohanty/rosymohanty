@@ -31,7 +31,7 @@ I'm a final-year **MCA student** who builds production-style full-stack applicat
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,postman,vercel,render,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,github,postman,vercel,render&perline=7" />
 </p>
 
 **Core:** JavaScript (ES6+) · React.js · Node.js · Express.js · MongoDB · Redux
@@ -44,17 +44,13 @@ I'm a final-year **MCA student** who builds production-style full-stack applicat
 | Project | What it does |
 |---|---|
 | **[QuickBite](https://quick-bite-eight-pi.vercel.app/)** | 4-role food delivery platform — real-time tracking (Socket.IO), Razorpay payments with HMAC-verified webhooks, JWT auth, Cloudinary uploads |
-| **[CareerHive](https://job-portal-five-orpin.vercel.app/)** | Role-based job portal connecting recruiters and job seekers |
+| **[CareerHive](https://careerhive-portal.vercel.app/)** | Role-based job portal connecting recruiters and job seekers |
 | **[Car Booking App](https://car-booking-mauve.vercel.app/)** | React + Vite + Tailwind car rental booking interface |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rosymohanty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosymohanty&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rosymohanty&theme=tokyonight&hide_border=true" />
