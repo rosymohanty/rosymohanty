@@ -43,11 +43,9 @@ I'm a final-year **MCA student** who builds production-style full-stack applicat
 
 | Project | What it does |
 |---|---|
-| **[QuickBite](#)** | 4-role food delivery platform — real-time tracking (Socket.IO), Razorpay payments with HMAC-verified webhooks, JWT auth, Cloudinary uploads |
-| **[CareerHive](#)** | Role-based job portal connecting recruiters and job seekers |
-| **[Car Booking App](#)** | React + Vite + Tailwind car rental booking interface |
-
-*(Swap the `#` links for your live demo / repo URLs)*
+| **[QuickBite](https://quick-bite-eight-pi.vercel.app/)** | 4-role food delivery platform — real-time tracking (Socket.IO), Razorpay payments with HMAC-verified webhooks, JWT auth, Cloudinary uploads |
+| **[CareerHive](https://job-portal-five-orpin.vercel.app/)** | Role-based job portal connecting recruiters and job seekers |
+| **[Car Booking App](https://car-booking-mauve.vercel.app/)** | React + Vite + Tailwind car rental booking interface |
 
 ---
 
